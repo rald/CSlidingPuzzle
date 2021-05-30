@@ -3,4 +3,4 @@ CSlidingPuzzle: main.c
 	termux-elf-cleaner CSlidingPuzzle
 
 clean:
-	rm *.o CSlidingPuzzle
+	rm CSlidingPuzzle
