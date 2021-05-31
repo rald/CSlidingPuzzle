@@ -127,8 +127,6 @@ void grid(SDL_Surface *surface,int w,int h,Uint32 pixel) {
 	}
 }
 
-
-
 int main(int argc,char **argv) {
 
 	srand(time(NULL));
